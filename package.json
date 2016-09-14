@@ -1,0 +1,19 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "utility file",
+  "main": "app.js",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babel-preset-react": "^6.11.1",
+    "babelify": "^7.3.0",
+    "color": "^0.11.3",
+    "watchify": "^3.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shalini",
+  "license": "ISC"
+}
